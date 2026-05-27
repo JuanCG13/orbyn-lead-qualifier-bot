@@ -2,6 +2,8 @@
 
 Telegram lead qualification agent built with **Next.js + TypeScript**, deployable on **Vercel**. It receives free-text leads in Telegram, qualifies them with an LLM through **OpenRouter**, replies in the same chat, and logs every lead to **Google Sheets**.
 
+Live bot: https://t.me/LeadQualifier13Bot
+
 ## What it does
 
 1. Receives a Telegram message with lead data in free text.
